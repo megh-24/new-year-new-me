@@ -3,6 +3,7 @@
     background-image: url(../images/Banner.png);
     background-repeat: no-repeat;
     background-position: center;
+    height: 600px;
 }
 
 .main1 {
@@ -42,9 +43,10 @@
     width: 1320px;
     height: 482px;
     flex-shrink: 0;
-    background-color: blanchedalmond;
+    background-color: #FF00000D;
     margin: auto;
     margin-top: 120px;
+    font-family: Inter;
 }
 
 .main5 {
@@ -128,8 +130,11 @@ span {
     background-image: url('../images/Rectangle\ 2.png');
     background-repeat: no-repeat;
     background-position: bottom left;
-    background-size: ;
+    background-size: 450px;
     border-radius: 16px 0px 16px 16px;
+    width: 320px;
+    height: 229px;
+    flex-shrink: 0;
 
 }
 
@@ -137,6 +142,11 @@ span {
     background-image: url('../images/Rectangle\ 1.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    margin-left: 0150px;
+    width: 429px;
+    height: 433px;
+    flex-shrink: 0;
+
 
 }
 
@@ -163,7 +173,7 @@ span {
 }
 
 .sec3 {
-    margin: auto;
+    margin-top: 150px;
 }
 
 .sec4 {
@@ -198,3 +208,99 @@ span {
     line-height: 32px;
     /* 160% */
 }
+
+#img-ctrl {
+    justify-content: space-between;
+}
+
+.gifts1 {
+    display: flex;
+    justify-content: space-between;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    padding: 24px;
+    border-radius: 16px;
+
+}
+
+.gifts2 {
+    display: flex;
+    justify-content: space-between;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    padding: 24px;
+    border-radius: 16px;
+}
+
+#gift-primary1 {
+    margin-right: 24px;
+    margin-bottom: 24px;
+}
+
+.last-main {
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.last-main-img {
+    display: flex;
+    text-align: center;
+    margin: 80px 585px;
+
+}
+
+#last-h1 {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+#last-para {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    margin-left: 212px;
+    font-weight: 400px;
+    line-height: 32px;
+    /* 160% */
+    width: 896px;
+}
+
+.design {
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+    border-radius: 50px 50px 0 50px ;
+    background: #FFF;
+    margin-left: 200px;
+    border: none;
+   
+
+}
+
+.hd-btn {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+    flex-shrink: 0;
+    border: none; 
+    color: #FFFFFF;   
+}
+
+.footer1{
+    background: #070211;
+
+}
+
