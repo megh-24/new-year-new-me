@@ -28,6 +28,7 @@
 
 .maing {
     font-size: 24px;
+
 }
 
 .main3 {
@@ -66,12 +67,134 @@
     align-items: center;
     gap: 10px;
     border-radius: 8px;
+    border: none;
     background: #F00;
     color: #FFF;
     font-size: 20px;
     margin-left: 608px;
 }
 
-span{
+span {
     color: #F00;
+}
+
+.main7 {
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 224px;
+
+}
+
+.main8 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-top: 0;
+}
+
+.mainf {
+    display: flex;
+}
+
+.main9 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+.img1 {
+
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: ;
+    border-radius: 16px 0px 16px 16px;
+
+}
+
+.img2 {
+    background-image: url('../images/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: ;
+    border-radius: 16px 0px 16px 16px;
+
+}
+
+.img3 {
+    background-image: url('../images/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+}
+
+.all {
+    margin-top: 0;
+    padding: auto;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.sec1 {
+    margin: auto;
+}
+
+
+.sec2 {
+    margin: auto;
+    margin-top: 170px;
+}
+
+.sec3 {
+    margin: auto;
+}
+
+.sec4 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+    margin-top: 170px;
+}
+
+.foorti {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 0;
+}
+
+.happy-vibe {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
 }
